@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou @VictorMenezes21.
 - 👀 Estou interessado em aprender mais sobre Computação.
-- 🌱 Atualmente estou cursando Ciência da Computação.
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - 💞️ Estou procurando colaborar na área da Programação.
 - 📫 Como me alcançar: (31)986427540 - victorm_oliv@hotmail.com.
 
