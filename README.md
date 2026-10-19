@@ -1,38 +1,40 @@
-# Olá, eu sou o Victor! 👋
-
-💻 **Profissional de TI | Estudante de Análise e Desenvolvimento de Sistemas**
-
-Atuo na área de Tecnologia da Informação, com experiência prática em administração de servidores Linux, infraestrutura de redes, virtualização, containers e sustentação de aplicações web.
-
-Tenho interesse em desenvolvimento de software, automação e tecnologias que conectam infraestrutura e programação.
-
-### 🛠️ Tecnologias e ferramentas
-
-**Infraestrutura:** Linux, Docker, VMware, Nginx, Apache e DNS (BIND).
-
-**Desenvolvimento:** Python, Java, JavaScript, React, Next.js, HTML e CSS.
-
-**Banco de dados:** MySQL e PostgreSQL.
-
-**Ferramentas:** Git, GitHub, VS Code e IntelliJ IDEA.
-
-### 📚 Atualmente estudando
-
-- Desenvolvimento Back-end com Python e Java
-- Engenharia de Software e boas práticas de programação
-- DevOps e automação de processos
-
-### 🎯 Objetivo
-
-Evoluir profissionalmente na área de tecnologia, unindo minha experiência em infraestrutura ao desenvolvimento de soluções eficientes, seguras e escaláveis.
-
-### 📫 Contato
-
-- **GitHub:** [@VictorMenezes21](https://github.com/VictorMenezes21)
-
-*Sempre aprendendo, construindo e evoluindo.* 🚀
-
-<!---
-VictorMenezes21/VictorMenezes21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+Victor Menezes
+Infraestrutura de TI · Desenvolvimento de Software
+Estudante de Análise e Desenvolvimento de Sistemas
+![GitHub](https://img.shields.io/badge/GitHub-VictorMenezes21-24292f?style=flat-square&logo=github)
+</div>
+---
+Sobre mim
+Atuo com infraestrutura de TI, administração de servidores Linux, virtualização, containers e sustentação de aplicações web. Paralelamente, estudo desenvolvimento de software e automação, conectando a experiência de infraestrutura à programação.
+Experiência prática
+![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=2496ED)
+![VMware](https://img.shields.io/badge/VMware-30363D?style=flat-square&logo=vmware&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-30363D?style=flat-square&logo=nginx&logoColor=009639)
+![Apache](https://img.shields.io/badge/Apache-30363D?style=flat-square&logo=apache&logoColor=D22128)
+![DNS](https://img.shields.io/badge/DNS%20%2F%20BIND-30363D?style=flat-square)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-30363D?style=flat-square&logo=nextcloud&logoColor=0082C9)
+![Joomla](https://img.shields.io/badge/Joomla-30363D?style=flat-square&logo=joomla&logoColor=white)
+Desenvolvimento e aprendizado
+Atualmente estudando Python, Java e Back-end, com projetos de aprendizado em desenvolvimento web.
+![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-30363D?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-30363D?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032)
+Projetos em destaque
+<div align="center">
+![Projeto React](https://github-readme-stats.vercel.app/api/pin/?username=VictorMenezes21&repo=todo-list-react&theme=github_dark&hide_border=true)
+![Projeto Python](https://github-readme-stats.vercel.app/api/pin/?username=VictorMenezes21&repo=pokedex-terminal&theme=github_dark&hide_border=true)
+</div>
+> Os cards dependem de os repositórios serem públicos e de o serviço externo estar disponível.
+Atividade no GitHub
+<div align="center">
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=VictorMenezes21&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true)
+</div>
+Contato
+![GitHub](https://img.shields.io/badge/GitHub-Perfil-30363D?style=flat-square&logo=github)
+---
+<div align="center"><sub>Aprendendo, construindo e evoluindo.</sub></div>
